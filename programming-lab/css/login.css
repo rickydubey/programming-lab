@@ -1,0 +1,19 @@
+@font-face {
+  font-family: defaultfont;
+  src: url(NotoSerif-Italic.ttf);
+}
+
+body{
+	background-color: Pink;
+}
+
+HEADER{
+	font-family: defaultfont;
+	font-size: 100px;
+	text-align: center;
+}
+
+.loginbox{
+	height: 100px;
+	text-align: center;
+}

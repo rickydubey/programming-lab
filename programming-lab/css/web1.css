@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: defaultfont;
+  src: url(NotoSerif-Italic.ttf);
+}
+
+HEADER{
+	font-family: defaultfont;
+	background-color: Yellow;
+	padding: 20px;
+	font-size: 30px;
+}
+
+.topnav{
+	float: right;
+	font-size: 20px;
+}
